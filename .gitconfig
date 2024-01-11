@@ -1,0 +1,26 @@
+[user]
+	name = exception7601
+	email = 77030548+exception7601@users.noreply.github.com
+	signingkey = 646FB97F3A2FB9FD
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
+	excludesfile = /Users/anderson/.gitignore_global
+	pager = less -FXR
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[pull]
+	rebase = true
+
+[push]
+	autoSetupRemote = true
+[alias]
+	df = !git --git-dir=$HOME/.cfg/ --work-tree=$HOME
+[credentials]
+	helper = osxkeychain

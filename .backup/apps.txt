@@ -1,0 +1,48 @@
+Alacritty.app
+Apple Configurator.app
+Bitwarden.app
+Chromium.app
+Clean Me.app
+DevCleaner.app
+Developer.app
+Discord.app
+Discovery.app
+Display Menu.app
+Docker.app
+Figma.app
+Firefox.app
+Hammerspoon.app
+IINA.app
+Keynote.app
+KnockKnock.app
+LuLu.app
+Macs Fan Control.app
+NetNewsWire.app
+Numbers.app
+OBS.app
+Pages.app
+PiP.app
+Plash.app
+Raspberry Pi Imager.app
+Rectangle.app
+SF Symbols beta.app
+Safari Technology Preview.app
+Safari.app
+Shortcat.app
+Speedtest.app
+Stats.app
+Steam.app
+Sublime Text.app
+Tailscale.app
+TestFlight.app
+Tor Browser.app
+Tutanota Desktop.app
+UTM.app
+Utilities
+Visual Studio Code.app
+Wineskin Winery.app
+WireGuard.app
+Xcode-15.1.0.app
+Xcodes.app
+iOS App Signer.app
+mpv.app
